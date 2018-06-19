@@ -8,5 +8,8 @@
     "build": "webpack -w"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mapbox-gl": "^0.46.0-beta.1"
+  }
 }
